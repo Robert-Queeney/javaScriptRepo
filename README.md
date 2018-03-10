@@ -5,3 +5,5 @@
 2. install gulp globally npm 1 -g
 
 3. run gulp
+
+4. git remote set-url origin 'repository name'
